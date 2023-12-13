@@ -1,6 +1,6 @@
 //ios_base::sync_with_stdio(false);
 #define call() cin.tie(NULL);
-  #include<bits/stdc++.h>
+#include<bits/stdc++.h>
 #define vi vector<int>
 #define vc vector<char>
 #define vl vector<long long>
